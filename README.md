@@ -1,1 +1,1 @@
-# teodorgeorgiev.github.io
+# teodor-georgiev.github.io
