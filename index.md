@@ -6,7 +6,8 @@
 
 This project serves as an example of online retailer analysis using Python to build a classifier that predicts if an ordered item will be returned or not. The dataset used in this analysis comes from the Data Mining Cup 2014 and contains over 530,000 items ordered by a German online clothing retailer over a 13-month period. The dataset contains features describing the items as well as the customer who placed the order. The models used to predict the return of an item included Neural Network, XGBoost, CatBoost, and LightGBM. The best-performing model was CatBoost (GPU), achieving an MAE of 0.2974 on the test set and placing the solution in the top 4 of the ranking list of the Data Mining Cup 2014.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/pandas-white?logo=https://raw.githubusercontent.com/teodor-georgiev/teodor-georgiev.github.io/main/images/pandas.png)](#)
 
 [View code on Github](https://github.com/teodor-georgiev/Online-Retailer-Analysis-2014)
 
