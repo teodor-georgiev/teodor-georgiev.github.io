@@ -34,6 +34,6 @@ The second section displays the impact of brand perceptions on the stock market 
 ### Simulated Annealing algorithm for the Vehicle Routing Problem
 Implementation of the Simulated Annealing metaheurstic to solve the Vehicle Routing Problem.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Metaheuristic-white?logo=Python)](#)
 
 [View code on Github](https://github.com/teodor-georgiev/Simulated-Annealing)
