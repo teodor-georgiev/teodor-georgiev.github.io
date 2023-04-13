@@ -31,4 +31,7 @@ The second section displays the impact of brand perceptions on the stock market 
 
 ---
 
-### The Fragile Families Challenge: ML with Bayesian hyperparameter tuning, KNN missing values imputation, and data preprocessing Pipelines
+### Simulated Annealing algorithm for the Vehicle Routing Problem
+Implementation of the Simulated Annealing metaheurstic to solve the Vehicle Routing Problem.
+
+[View code on Github](https://github.com/teodor-georgiev/Brand-Perception-Dashboard-Renderapp](https://github.com/teodor-georgiev/Simulated-Annealing)
