@@ -1,5 +1,6 @@
 title: Teodor Georgiev # your name (or website title) here
-logo: "/images/foto.jpg?raw=true" # your photo (or logo) here
+#logo: "/images/foto.jpg?raw=true" # your photo (or logo) here
+logo: "/images/cv_round.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Economist with background in Data Science and a masters degree in economics from Bielefeld Universtiy in Germany
